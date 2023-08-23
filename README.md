@@ -1,8 +1,8 @@
-# Esoteric Script Wonders
+# EsotericScriptWorks
 
 ## Welcome to the World of Esoteric Programming
 
-Prepare to be amazed as you step into the realm of **Esoteric ScriptWorks**, a grand showcase of my mind-bending creations in some of the most obscure and challenging programming languages known to humanity. From the perplexing intricacies of INTERCAL to the enigmatic twists of Malbolge, from the whitespace realms to the baffling elegance of Brainfuck, you're about to embark on an unforgettable journey.
+Prepare to be amazed as you step into the realm of **EsotericScriptWorks**, a grand showcase of my mind-bending creations in some of the most obscure and challenging programming languages known to humanity. From the perplexing intricacies of INTERCAL to the enigmatic twists of Malbolge, from the whitespace realms to the baffling elegance of Brainfuck, you're about to embark on an unforgettable journey.
 
 ## Repository Overview
 
